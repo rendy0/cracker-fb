@@ -16,6 +16,8 @@ pip install rich
 
 pip install mechanize
 
+pip install stdiomask
+
 rm -rf cracker-fb
 
 git clone https://github.com/rendy0/cracker-fb
